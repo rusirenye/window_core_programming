@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# debug or release
+\Debug\
+\Release\
+\ipch\
+
+#git configure
+\.git\
