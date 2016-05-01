@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virtual_Memory", "Virtual_Memory\Virtual_Memory.vcxproj", "{F6C0338B-2818-4173-8010-8C2E0ECD796C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_FormatMessage", "1_FormatMessage\1_FormatMessage.vcxproj", "{5155EA41-A7C5-42F2-8D00-F7AA820C6AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C0338B-2818-4173-8010-8C2E0ECD796C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6C0338B-2818-4173-8010-8C2E0ECD796C}.Debug|Win32.Build.0 = Debug|Win32
+		{F6C0338B-2818-4173-8010-8C2E0ECD796C}.Release|Win32.ActiveCfg = Release|Win32
+		{F6C0338B-2818-4173-8010-8C2E0ECD796C}.Release|Win32.Build.0 = Release|Win32
+		{5155EA41-A7C5-42F2-8D00-F7AA820C6AD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5155EA41-A7C5-42F2-8D00-F7AA820C6AD2}.Debug|Win32.Build.0 = Debug|Win32
+		{5155EA41-A7C5-42F2-8D00-F7AA820C6AD2}.Release|Win32.ActiveCfg = Release|Win32
+		{5155EA41-A7C5-42F2-8D00-F7AA820C6AD2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
