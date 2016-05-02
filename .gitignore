@@ -30,5 +30,6 @@
 # debug or release
 /Debug/
 /Release/
+/ipch/
 
 #git configure
