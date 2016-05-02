@@ -28,9 +28,7 @@
 *.app
 
 # debug or release
-\Debug\
-\Release\
-\ipch\
+/Debug/
+/Release/
 
 #git configure
-\.git\
